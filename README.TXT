@@ -25,6 +25,10 @@ The power input socket is the same as Chucky Hertell's Re-Amiga 1200 board - i.e
 
 The EMF filters have been replaced with resistors and capacitors same as on the Amiga 1200.
 
+Version 0.11 and 0.12 notes
+-------------------------------------------------------
+Minor revisions to fix a problem with the solder mask layer
+
 
 Version 0.1 notes (also in the schematic)
 -------------------------------------------------------
