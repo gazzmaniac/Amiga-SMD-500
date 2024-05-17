@@ -1,7 +1,15 @@
 SMD 500+
-Licensed under the TAPR Open Hardware License (www.tapr.org/OHL).
-Copyright (c) Red Keg Technologies 2019.
+Licensed under the CERN Open Hardware Licence Version 2 - Strongly Reciprocal.  https://cern-ohl.web.cern.ch/.
 
+Warning and Disclaimer - May 2024
+-------------------------------------------------------
+Be advised that this project was only developed to a working prototype.  It has not been updated since 2019.
+There are significant issues with it, not least of which are many of the holes and plugs do not line up with the A500 case.
+If you want to build a replacement A500 or A500+ you should build a different project.
+These files are made available in case somebody ever wants to use them as the basis for another project.
+No support will be given by the author should you choose to ignore this advice and build it anyway.
+Note the change in license.  Feel free to use this project but I do ask that any derivative projects give credit and are also open source.
+No other changes have been made to this project.
 
 Introduction
 -------------------------------------------------------
